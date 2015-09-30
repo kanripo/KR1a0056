@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 文公易說
-#+DATE: 2015-09-23 09:34:41
-#+PROPERTY: JUAN 18
+#+DATE: 2015-08-24 21:55:44.675080
+#+PROPERTY: ID KR1a0056
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十八
 <pb:KR1a0056_WYG_018-1a>¶
 欽定四庫全書¶
 　文公易說卷十八　　　　　宋　朱鑑　撰¶
@@ -470,4 +472,3 @@
 　¶
 　¶
 　文公易說卷十八¶
-

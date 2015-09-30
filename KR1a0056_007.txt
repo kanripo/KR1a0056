@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 文公易說
-#+DATE: 2015-09-23 09:34:41
-#+PROPERTY: JUAN 7
+#+DATE: 2015-08-24 21:55:44.414732
+#+PROPERTY: ID KR1a0056
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷七
 <pb:KR1a0056_WYG_007-1a>¶
 欽定四庫全書¶
 　文公易說卷七　　　　　　宋　朱鑑　撰¶
@@ -1118,4 +1120,3 @@
 　¶
 　¶
 　文公易說卷七¶
-

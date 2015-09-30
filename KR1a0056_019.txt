@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 文公易說
-#+DATE: 2015-09-23 09:34:41
-#+PROPERTY: JUAN 19
+#+DATE: 2015-08-24 21:55:44.694106
+#+PROPERTY: ID KR1a0056
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十九 
 <pb:KR1a0056_WYG_019-1a>¶
 欽定四庫全書¶
 　文公易說卷十九　　　　　宋　朱鑑　撰¶
@@ -694,4 +696,3 @@
 　植竹是日游其間笑謂諸生曰上有九疇八卦之象¶
 　下有九丘八陣之法(陳淳錄/)¶
 　文公易説卷十九¶
-
